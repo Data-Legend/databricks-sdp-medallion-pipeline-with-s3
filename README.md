@@ -1,6 +1,6 @@
-# 🚕 GoodCabs — End-to-End Data Engineering on Databricks
+# 🚕 GoodCabs — End-to-End Data Engineering Solution on Databricks
 
-*Declarative lakehouse pipelines for region-specific transportation analytics, powered by LakeFlow Spark Declarative Pipelines (SDP).*
+*Declarative lakehouse pipelines for region-specific transportation analytics, powered by LakeFlow Spark Declarative Pipelines (SDP) and AI-Powered Analytics with Genie.*
 
 ---
 
